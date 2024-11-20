@@ -4,13 +4,14 @@ I'm Anas (aka Luffy), **a cybersecurity student** in my second year at [HELMo](h
 
 I love teaming up on interesting projects, especially if they involve thinking outside the box. Whether it's finding creative security solutions or working on something completely new, I'm always up for a challenge.
 Got an interesting idea or project in mind? Drop me a message - I'd love to chat!
- 
-You can find me on the platforms below, feel free to reach out! : 
+
+You can find me on the platforms below (feel free to reach out!) : 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-AnasE-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaself/)](https://www.linkedin.com/in/anaself/)
 [![Discord Badge](https://img.shields.io/badge/-cybrm4v3rick-blue?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/cybrm4v3rick)](https://discordapp.com/users/cybrm4v3rick)
 [![GitHub followers](https://img.shields.io/github/followers/Luffy0xCyber?label=Follow&style=social)]()
+
 
 
 
