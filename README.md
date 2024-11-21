@@ -37,7 +37,7 @@ You can find me on the platforms below (feel free to reach out!) :
 
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Luffy0xCyber)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luffy0xCyber&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luffy0xCyber&theme=default)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Luffy0xCyber.Luffy0xCyber)
