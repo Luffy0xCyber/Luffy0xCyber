@@ -33,13 +33,11 @@ You can find me on the platforms below (feel free to reach out!) :
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 
-
 ## 📈 My GitHub Stats
 
 ![Github Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Luffy0xCyber)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luffy0xCyber&hide=TeX&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luffy0xCyber&theme=tokyonight)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Luffy0xCyber.Luffy0xCyber)
